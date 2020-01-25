@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1342558440 source:c:\program files\codeblocks\mingw\include\kiss_fft130\kiss_fft.c
+	"_kiss_fft_guts.h"
+
+1342558440 c:\program files\codeblocks\mingw\include\kiss_fft130\_kiss_fft_guts.h
+	"kiss_fft.h"
+	<limits.h>
+	<alloca.h>
+
+1342558440 c:\program files\codeblocks\mingw\include\kiss_fft130\kiss_fft.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<xmmintrin.h>
+	<sys/types.h>
+
+1342558440 source:c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\kiss_fft.c
+	"_kiss_fft_guts.h"
+
+1342558440 c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\_kiss_fft_guts.h
+	"kiss_fft.h"
+	<limits.h>
+	<alloca.h>
+
+1342558440 c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\kiss_fft.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<xmmintrin.h>
+	<sys/types.h>
+
+1388845997 source:c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\main.cpp
+	"kiss_fft.h"
+	"kiss_fftr.h"
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
+1342558440 c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\kiss_fftr.h
+	"kiss_fft.h"
+
+1342558440 source:c:\documents and settings\tarshoduze\my documents\programming\c\kau-enc\kiss_fftr.c
+	"kiss_fftr.h"
+	"_kiss_fft_guts.h"
+
